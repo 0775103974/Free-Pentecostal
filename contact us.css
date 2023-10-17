@@ -1,0 +1,47 @@
+*
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #000;
+}
+p{
+    font-family: Cambria;
+    color: black;
+}
+
+form{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+body{
+    background-color: silver;
+}
+
+h2{
+    font-family: Impact;
+    font-weight: 60;
+}
+
+h3{
+    font-family: Impact;
+    font-weight: 60;
+    color: #000;
+}
+.content-items img{
+    width: 2%;
+    height: 4%;
+    background-size: cover;
+    float: center;
+}
+.close {
+    border: 2px solid #fff;
+    background-color: black;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+.close:hover {
+    background-color: #fff;
+    color: #000000;
+    border: 2px dotted #000000;
+}

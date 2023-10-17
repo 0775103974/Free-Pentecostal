@@ -1,0 +1,21 @@
+*
+.content-items img{
+    width: 40%;
+    height: 50%;
+    background-size: cover;
+    background-position: center;
+    border-image: round;
+}
+h1{
+    font-size: 30px;
+    color: white;
+    font-variant-position: normal;
+}
+p{
+    font-size: 20px;
+    color: white;
+}
+body{
+    background-color: black;
+    
+}

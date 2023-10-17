@@ -1,0 +1,41 @@
+*
+.content-items img{
+    width: 80%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+p{
+    font-size: 16px;
+    text-align: center;
+    color: white;
+
+}
+
+ ul{
+    font-size: 16px;
+    font-family: serif;
+    display: list-item;
+    color: white;
+    text-align: center;
+    
+}
+h2{
+    font-size: 20px;
+    color: white;
+    font-family: Cambria;
+    text-align: center;   
+}
+
+h1{
+    font-size: 30px;
+    color: white;
+    font-family: Arial;
+}
+
+body{
+    background-color: black;
+}
+
+

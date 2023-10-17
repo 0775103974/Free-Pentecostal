@@ -1,0 +1,26 @@
+*
+h1{
+    font-size: 50px;
+    color: white;
+    text-align: justify;
+}
+p{
+    font-size: 20px;
+    color: white;
+    text-align: justify;
+    text-decoration: blueviolet;
+}
+ul{
+    font-size: 30px;
+    color: white;
+    text-align: justify;
+
+}.content-items img{
+    width: 50%;
+    height: 80%;
+    background-size: cover;
+    background-position: center;
+} 
+body{
+    background-color: black;
+} 
